@@ -1,1 +1,27 @@
-V0: 14 June 2025: Creation of this file. TBD its contents and instructions. 
+14 June 2025: Creation of this file. TBD its contents and instructions. 
+
+05 July 2025: Uploading the 1st version. 
+% Code to support the publication: Vasilakis, N., Chorianopoulos, C., & Zois, E. N. (2025). A Riemannian Dichotomizer Approach on Symmetric Positive Definite Manifolds for Offline, Writer-Independent Signature Verification.
+% Applied Sciences, 15(13), 7015. https://doi.org/10.3390/app15137015 
+ABSTRACT: Automated handwritten signature verification continues to pose significant challenges. A common approach for developing writer-independent signature verifiers involves the use
+of a dichotomizer, a function that generates a dissimilarity vector with the differences between similar and dissimilar pairs of signature descriptors as components. The Dichotomy
+Transform was applied within a Euclidean or vector space context, where vectored representations of handwritten signatures were embedded in and conformed to Euclidean
+geometry. Recent advances in computer vision indicate that image representations to the Riemannian Symmetric Positive Definite (SPD) manifolds outperform vector space representations.
+In offline signature verification, both writer-dependent and writer-independent systems have recently begun leveraging Riemannian frameworks in the space of SPD
+matrices, demonstrating notable success. This work introduces, for the first time in the signature verification literature, a Riemannian dichotomizer employing Riemannian dissimilarity
+vectors (RDVs). The proposed framework explores a number of local and global (or common pole) topologies, as well as simple serial and parallel fusion strategies for
+RDVs for constructing robust models. Experiments were conducted on five popular signature datasets of Western and Asian origin, using blind intra- and cross-lingual experimental
+protocols. The results indicate the discriminative capabilities of the proposed Riemannian dichotomizer framework, which can be compared to other state-of-the-art and
+computationally demanding architectures. 
+
+1. Should you make use of the suggested experimental protocol, pls. refer the following papers which make use of it:
+  a) A Riemannian Dichotomizer Approach on Symmetric Positive Definite Manifolds for Offline, Writer-Independent Signature Verification, N. Vasilakis, C. Chorianopoulos and E. N. Zois. 
+     Applied Sciences 2025 Vol. 15 Issue 13 Pages 7015: DOI:10.3390/app15137015 
+  b) Similarity Distance Learning on SPD Manifold for Writer Independent Offline Signature Verification, E. N. Zois, D. Tsourounis and D. Kalivas
+     IEEE Transactions on Information Forensics and Security 2024 Vol. 19 Pages 1342-1356,  DOI: 10.1109/TIFS.2023.3333681
+   c) Metric meta-learning and intrinsic Riemannian embedding for writer independent offline signature verification, A. Giazitzis and E. N. Zois
+      Expert Systems with Applications 2025 Vol. 261, Article number: 125470, DOI: 10.1016/j.eswa.2024.125470
+   d) SigmML: Metric meta-learning for Writer Independent Offline Signature Verification in the Space of SPD Matrices, A. Giazitzis and E. N. Zois
+      2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 3-8 Jan. 2024 2024, Pages: 6300-6310, DOI: 10.1109/WACV57701.2024.00619
+   e) Janus-Faced Handwritten Signature Attack: A Clash Between a Handwritten Signature Duplicator and a Writer Independent Metric Meta-learning Offline Signature Verifier, A. Giazitzis, M. Diaz, E. N. Zois and M. A. Ferrer, 
+      Proc. ICDAR 2024, Cham 2024, Publisher: Springer Nature Switzerland, Pages: 216-232, DOI: 10.1007/978-3-031-70536-6_13
