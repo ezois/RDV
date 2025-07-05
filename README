@@ -25,3 +25,8 @@ computationally demanding architectures.
       2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 3-8 Jan. 2024 2024, Pages: 6300-6310, DOI: 10.1109/WACV57701.2024.00619
    e) Janus-Faced Handwritten Signature Attack: A Clash Between a Handwritten Signature Duplicator and a Writer Independent Metric Meta-learning Offline Signature Verifier, A. Giazitzis, M. Diaz, E. N. Zois and M. A. Ferrer, 
       Proc. ICDAR 2024, Cham 2024, Publisher: Springer Nature Switzerland, Pages: 216-232, DOI: 10.1007/978-3-031-70536-6_13
+
+2. (Important) pls. send email to ezois@uniwa.gr to provide link with the .mat files (they are large)
+% a) CEDAR_covs10_v5_new_thlauto (The covariances of the CEDAR signature dataset ~100MB)
+% b) ResWI_intCEDAR_psf0_tngvc_DT_cov10 (preloaded results 300MB)
+% and uncomment line #42: {addpath(genpath('.\mat_files'))}
