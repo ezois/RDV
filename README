@@ -15,15 +15,15 @@ protocols. The results indicate the discriminative capabilities of the proposed 
 computationally demanding architectures. 
 
 1. Should you make use of the suggested experimental protocol, pls. refer the following papers which make use of it:
-  a) A Riemannian Dichotomizer Approach on Symmetric Positive Definite Manifolds for Offline, Writer-Independent Signature Verification, N. Vasilakis, C. Chorianopoulos and E. N. Zois. 
+  i) A Riemannian Dichotomizer Approach on Symmetric Positive Definite Manifolds for Offline, Writer-Independent Signature Verification, N. Vasilakis, C. Chorianopoulos and E. N. Zois. 
      Applied Sciences 2025 Vol. 15 Issue 13 Pages 7015: DOI:10.3390/app15137015 
-  b) Similarity Distance Learning on SPD Manifold for Writer Independent Offline Signature Verification, E. N. Zois, D. Tsourounis and D. Kalivas
+  ii) Similarity Distance Learning on SPD Manifold for Writer Independent Offline Signature Verification, E. N. Zois, D. Tsourounis and D. Kalivas
      IEEE Transactions on Information Forensics and Security 2024 Vol. 19 Pages 1342-1356,  DOI: 10.1109/TIFS.2023.3333681
-   c) Metric meta-learning and intrinsic Riemannian embedding for writer independent offline signature verification, A. Giazitzis and E. N. Zois
-      Expert Systems with Applications 2025 Vol. 261, Article number: 125470, DOI: 10.1016/j.eswa.2024.125470
-   d) SigmML: Metric meta-learning for Writer Independent Offline Signature Verification in the Space of SPD Matrices, A. Giazitzis and E. N. Zois
+  iii) Metric meta-learning and intrinsic Riemannian embedding for writer independent offline signature verification, A. Giazitzis and E. N. Zois
+     Expert Systems with Applications 2025 Vol. 261, Article number: 125470, DOI: 10.1016/j.eswa.2024.125470
+  iv) SigmML: Metric meta-learning for Writer Independent Offline Signature Verification in the Space of SPD Matrices, A. Giazitzis and E. N. Zois
       2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 3-8 Jan. 2024 2024, Pages: 6300-6310, DOI: 10.1109/WACV57701.2024.00619
-   e) Janus-Faced Handwritten Signature Attack: A Clash Between a Handwritten Signature Duplicator and a Writer Independent Metric Meta-learning Offline Signature Verifier, A. Giazitzis, M. Diaz, E. N. Zois and M. A. Ferrer, 
+  v) Janus-Faced Handwritten Signature Attack: A Clash Between a Handwritten Signature Duplicator and a Writer Independent Metric Meta-learning Offline Signature Verifier, A. Giazitzis, M. Diaz, E. N. Zois and M. A. Ferrer, 
       Proc. ICDAR 2024, Cham 2024, Publisher: Springer Nature Switzerland, Pages: 216-232, DOI: 10.1007/978-3-031-70536-6_13
 
 2. (Important) pls. send email to ezois@uniwa.gr to provide link with the .mat files (they are large)
