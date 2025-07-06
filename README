@@ -31,3 +31,5 @@ computationally demanding architectures.
 % a) CEDAR_covs10_v5_new_thlauto (The covariances of the CEDAR signature dataset ~100MB)
 % b) ResWI_intCEDAR_psf0_tngvc_DT_cov10 (preloaded results 300MB)
 % and uncomment line #42: {addpath(genpath('.\mat_files'))}
+
+3. The code calculates the RDV for the $\Psi $
