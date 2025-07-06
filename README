@@ -32,4 +32,10 @@ computationally demanding architectures.
 % b) ResWI_intCEDAR_psf0_tngvc_DT_cov10 (preloaded results 300MB)
 % and uncomment line #42: {addpath(genpath('.\mat_files'))}
 
-3. The code calculates the RDV for the $\Psi $
+3. The code is realizing the RDV along withe the experintal protocol for
+a) F_intra, 
+b) Common pole and local LFW1/TFW1 protocols, 
+c) SVM and DSC-BFS classifers, 
+d) 100%RF (i.e. G-RF) for the G-F negative - dissimilar class,
+e) AIRM distance and 
+f) CEDAR dataset. 
