@@ -40,6 +40,4 @@ d) 100%RF (i.e. G-RF) for the G-F negative - dissimilar class,
 e) AIRM distance and 
 f) CEDAR dataset. 
 
-```math
-\Psi^I_{X,y}
-```
+$$ \Psi^I_{X,y} $$
